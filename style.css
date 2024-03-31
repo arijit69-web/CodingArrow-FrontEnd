@@ -50,12 +50,13 @@ p {
   font-weight: normal;
 }
 .wrapper {
-  text-align: center; /* Center align all child elements */
+  text-align: center; 
 }
 
 .logo {
-  display: block; /* Set the image as a block-level element */
-  margin: 0 auto; /* Set horizontal margin to auto to center */
-  width: 160px; /* Adjust the width as needed */
-  height: auto; /* This maintains the aspect ratio */
+  display: block; 
+  margin: 0 auto; 
+  width: 160px; 
+  height: auto; 
+  border-radius: 80px;
 }
